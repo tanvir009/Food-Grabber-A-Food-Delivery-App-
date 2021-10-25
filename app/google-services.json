@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "599898959248",
+    "project_id": "food-grabber-9d1ea",
+    "storage_bucket": "food-grabber-9d1ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599898959248:android:0953d3f936569994bf9715",
+        "android_client_info": {
+          "package_name": "com.example.foodgrabber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599898959248-bkndt3nlko52175h2vtv67ilim7pg078.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodgrabber",
+            "certificate_hash": "8d798a35559f8f399fa33b123f88c0876bbd67b8"
+          }
+        },
+        {
+          "client_id": "599898959248-0lbr2m8kl49tmj017akti364iqus99ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKZTK0hU_snhboTWqI2D5YvVSr7JnShSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599898959248-0lbr2m8kl49tmj017akti364iqus99ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
